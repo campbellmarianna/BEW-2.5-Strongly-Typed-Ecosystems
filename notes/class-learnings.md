@@ -1,0 +1,1 @@
+[DAY 1] Go enables you to do multiple assignments very easily
