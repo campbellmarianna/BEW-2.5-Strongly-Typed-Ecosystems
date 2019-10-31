@@ -26,6 +26,6 @@
 
 Homework
 - run the main function of the couple
-- with a new language explore the 
-
+- with a new language explore the package manager
   
+Why do we call one file a package when the term package is used to define a directory
