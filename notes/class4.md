@@ -23,7 +23,7 @@ Where you can find more information: - Automatic TLS: https://echo.labstack.com/
 
 # Know the thing you use from the start is something you want to use for a long time
 
-- interpolate - where variables are replaced with their value 
+- interpolate - where variables are replaced with their value in templates
 
 ## Echo way
 - the data response is always available via Body 
