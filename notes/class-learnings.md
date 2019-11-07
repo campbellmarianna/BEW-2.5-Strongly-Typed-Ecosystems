@@ -4,6 +4,8 @@
 
 [DAY 4] Interpolation happens where variables are replaced with their value in templates
 
+[DAY 5] Brillant way to write an algorithm is to conduct error handling at the beginning
+
 ## Resources
 - [Course Curriculm](make.sc/bew2.5)
 - TA: Dylan
@@ -21,3 +23,6 @@ Class 1:
 Class 2:
   6. [] Run the main function of the couple
   7. [] With a new language explore the package manager
+
+Class 7:
+  8. [] Walk through reading test in python
