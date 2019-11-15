@@ -26,3 +26,4 @@ Class 2:
 
 Class 7:
   8. [] Walk through reading test in python
+  9. [] connect git to exercism repo reduce the amount of work you do
